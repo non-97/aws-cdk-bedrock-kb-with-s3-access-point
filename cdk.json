@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/aws-cdk-bedrock-kb-with-s3-access-point.ts",
+  "app": "pnpm tsx bin/aws-cdk-bedrock-kb-with-s3-access-point.ts",
   "watch": {
     "include": [
       "**"
